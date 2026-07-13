@@ -1,0 +1,25 @@
+1: 수업에 들어가기에 앞서, ml history & introduction
+ ai 세미나 특징: 너무 빨리 변해서 저널에 올리기 보다는 컨퍼런스를 선호함
+
+탑 ai세미나: NeurIPS AAAI CVPR ICML ICLR 등
+
+2: 전반적인 supervised learning 에 대한 개론
+
+bias 가 크다: 모델이 부실하다 / 모델이 단순하다-> underfitting
+variance 가 크다: 현재 데이터에 너무 민감하게 학습-> overfitting
+-> test data로 학습을 시키면 성능이 떨어짐 
+
+underfitting <> overfitting 서로 반비례적인 관계
+== bias <>  variance
+
++cf. epslion의 variance는 컨트롤 할 수 없음 
+
+패스트캠퍼스: 퀴즈처럼  풀면서 배우는 파이썬  ml 300제
+		: 한번에 끝내는 머신러닝과 데이터분석 A-Z 올인원패키지
+꼭 둘다 듣기 
+
+collab 으로 프로젝트 진행할때 데이터 이용할만한 사이트:
+kaggle, uci << 메트랩수업떄 이용헀던 사이트
+
++github 열심히 하세요
++codeforce 열심히 하세요 
